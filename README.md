@@ -1,6 +1,6 @@
 # 关于
 
-基于urllib, request库提供新手爬虫入门实战案例, 具体文件见[Python网络爬虫二三事](https://www.jianshu.com/p/0bfd0c48457f)
+基于urllib, request库提供新手爬虫入门实战案例, 具体讲解文章见 [Python网络爬虫二三事](https://www.jianshu.com/p/0bfd0c48457f)
 
 # 内容
 
